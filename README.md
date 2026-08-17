@@ -48,7 +48,7 @@ Macro metrics across the three held-out test segments (`B0018`, `B0032`, `B0053_
 
 | Model | Macro RMSE ↓ | Macro MAE ↓ | Macro R² ↑ |
 |---|---|---|---|
-| **TE-Q-Transformer (rich entangler)** | **0.01678** | **0.01409** | **0.8699** |
+| **TE-Q-Transformer** | **0.01678** | **0.01409** | **0.8699** |
 | QNN-GRU | 0.03392 | 0.02882 | -0.5235 |
 | LSTM | 0.04086 | 0.03549 | 0.0010 |
 | QLSTM | 0.04158 | 0.03684 | -0.1778 |
