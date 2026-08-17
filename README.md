@@ -153,4 +153,4 @@ Update with the final author list, volume/issue, and DOI once accepted. See also
 
 ## Acknowledgments
 
-Research conducted under Kabir's Research Group (supervisor: Dr. Md Alamgir Kabir), Department of CSE, Daffodil International University, Dhaka, Bangladesh.
+Research conducted under Kabir's Research Group (Supervisor: Dr. Md Alamgir Kabir (kabir.cse@diu.edu.bd)), Department of CSE, Daffodil International University, Dhaka, Bangladesh.
